@@ -1,0 +1,30 @@
+1. Introduction
+ - Introduction to the domain
+ - Problem definition
+ - Outline of Contribution
+ - Structure of the Paper
+
+2. Related Work/Prelimiaries
+ - climate change
+ - Supply Chain and carbon emissions (scope 1-3 emissionen)
+ - Life Cycle Assessment (LCA)
+ - IoT
+
+3. Methodology
+
+4. IoT as enabler for monitoring/decreasing the footprint
+ - monitoring of carbon footprint
+ - decreasing carbon emissions
+
+5. IoT's own footprint
+
+6. Discussion
+ -
+ - open issues
+
+
+6. Conclusion
+ - summary
+ - limitations
+
+7. References
