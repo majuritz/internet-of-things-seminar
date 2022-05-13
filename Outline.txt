@@ -4,7 +4,7 @@
  - Outline of Contribution
  - Structure of the Paper
 
-2. Related Work/Prelimiaries (1 Seite)
+2. Related Work/Prelimiaries (1.5 Seite)
  - climate change
  - Supply Chain and carbon emissions (scope 1-3 emissionen)
  - Life Cycle Assessment (LCA)
