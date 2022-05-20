@@ -1,0 +1,21 @@
+Blue 1, #1B527F
+Green 1, #007230 
+Orange 1, #DB5F03 
+Blue 2, #1B527F, #6EA6D3
+Green 2, #007230, #8BB53D
+Orange 2, #DB5F03, #F49540
+Blue 3, #1B527F, #6EA6D3, #85C9FC 
+Green 3, #007230, #8BB53D, #99C658 
+Red-Orange 3, #DB5F03, #F49540, #FBAD66, 
+Mixed 3_1, #1B527F, #007230, #DB5F03
+Mixed 3_2, #6EA6D3, #8BB53D, #F49540 
+Mixed 3_3, #85C9FC, #99C658, #FBAD66 
+Blue 5, #7bbfe2, #1c93d1, #005dab, #003f72, #012648  
+Green 5, #bad892, #86b24b, #43b54e, #00b3b4, #007782
+Red-Orange 5, #ffae47, #f67257, #fa3a37, #be2f2a, #750010
+Colorful 1, #f27708, #f9b739, #2d4759, #3784c1, #3dd3d4
+Colorful 2, #b3cb4a, #00a99a, #453b7c, #f98751, #d5334e
+Colorful 3, #4e3c30, #866356, #e0ad80, #68b3c9, #d0512c
+MAXQDA, #1B527F, #6EA6D3, #99C658, #F49540, #EE6550, #CC3627, #007230
+BlackWhite A, #222222, #666666, #AAAAAA
+  
